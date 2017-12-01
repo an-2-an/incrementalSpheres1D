@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="org.apache.poi:poi:3.12" type="repository">
+    <properties maven-id="org.apache.poi:poi:3.12" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/poi-3.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-codec-1.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
